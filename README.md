@@ -45,7 +45,7 @@ This sets them aside from many neuromorphic chips, which remain prototypes or li
 
 ---
 
-## 🔹 Take-home Message 🔹
+## 🔹 Findings 🔹
 
 While **General-purpose GPUs outperform for pure training and heavy workloads**, their power usage and latency make them unsuitable for many **always-on, real-world applications** — especially at the **network’s edge**.
 
